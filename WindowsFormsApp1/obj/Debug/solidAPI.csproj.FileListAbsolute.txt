@@ -1,0 +1,28 @@
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\solidAPI.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\solidAPI.csproj.GenerateResource.cache
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\solidAPI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SolidWorks.Interop.sldworks.dll
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SolidWorks.Interop.swcommands.dll
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SolidWorks.Interop.swconst.dll
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\solidAPI.csproj.CopyComplete
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SolidWorks.Interop.sldworks.dll
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SolidWorks.Interop.swcommands.dll
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SolidWorks.Interop.swconst.dll
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SolidAPI.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SolidAPI.csproj.GenerateResource.cache
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SolidAPI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SolidAPI.csproj.CopyComplete
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lucas Rodrigues\temp\SolidAPIopnclsArchv\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
